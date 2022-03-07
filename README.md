@@ -1,7 +1,6 @@
-<h1 align="center">Hi!</h1>  
-<h3 align="center">I'm  currently living in Rio de Janeiro, Brazil</h3>  
-  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=joaos98&label=Profile%20views&color=0e75b6&style=flat" alt="joaos98" /> </p> 
+<h1 align="center">Bem-vindo!</h1>  
+<h3 align="center">I'm a Bsc in Computer Information Systems with experience in Robotic Process Automation, Project Management Office and Analytics. </h3> 
+
 <p align="center">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -22,11 +21,7 @@
 </p>
     
 <ul>
-  <li>♂ My pronouns are <strong>(he/him)</strong></li>
-  <!--<li>🔭 I’m currently working on <a href="https://github.com/Joaos98/minha-universidade" target="_blank">Minha Universidade</a></li>
--->
-  <li>🌱 I’m currently learning <strong>Python, Typescript</strong></li>
-  <li>📧 You can reach me at wesley_bsi@hotmail.com</li>
+  <li>🌱 I’m currently learning <strong>Machine Learning and Advanced Data Analytics.</strong></li>
 </ul>
 <p align="left">
   💌 Wanna chat me? contacts below:⤵️
