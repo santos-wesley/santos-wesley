@@ -21,7 +21,7 @@
 </p>
     
 <ul>
-  <li>🌱 I’m currently learning <strong>Machine Learning and Advanced Data Analytics.</strong></li>
+  <li>🌱 I’m currently learning <strong>Machine Learning and Advanced Analytics.</strong></li>
 </ul>
 <p align="left">
   💌 Wanna chat me? contacts below:⤵️
