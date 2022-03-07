@@ -28,6 +28,15 @@
   <li>🌱 I’m currently learning <strong>Python, Typescript</strong></li>
   <li>📧 You can reach me at wesley_bsi@hotmail.com</li>
 </ul>
+<p align="left">
+  💌 Wanna chat me? contacts below:⤵️
+</p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/silva-wesley/" alt="Linkedin">
+  <img height="30" width="120" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silva-wesley/"/></a>
+  <a href="https://api.whatsapp.com/send?phone=5521971865935" alt="WhatsApp">
+  <img height="30" width="120" src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521971865935"/></a>
+</p>  
 <!---
 ossevaolep/ossevaolep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
