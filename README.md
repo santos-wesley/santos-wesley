@@ -1,5 +1,5 @@
 <h1 align="center">Bem-vindo!</h1>  
-<h3 align="center">I'm a Msc Student in Computer Information Systems with experience in Data Science and Knowledge Engineering. </h3> 
+<h3 align="center">I hold an MSc in Computer Information Systems, with expertise in Data Science and Knowledge Engineering. </h3> 
 
 <p align="center">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
